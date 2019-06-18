@@ -3,7 +3,7 @@
 
 ## Overview
 
-This is the code for [this](https://youtu.be/b8xlCNzkX5w) video on Youtube by Siraj Raval on "How to Build a Healthcare Startup". The app uses PoseNet to detect human poses and a text to speech engine to speak to you. This emulates the role of a Yoga instructor! This code is unfinished, but meant to give you a starting point and guide so that you can build a profitable business using it or a similar idea. 
+The app uses PoseNet to detect human poses and a text to speech engine to speak to you. This emulates the role of a Yoga instructor! This code is unfinished, but meant to give you a starting point and guide so that you can build a profitable business using it or a similar idea. 
 
 ## Dependencies
 
